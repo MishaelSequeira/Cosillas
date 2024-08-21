@@ -45,5 +45,7 @@ Para desarrollar el proyecto, utilice las siguientes herramientas:
 
 Trello - Herramienta de gestión de proyectos.
 Visual Studio Code : editor de código fuente desarrollado por Microsoft para Windows, Linux, macOS y Web.
-Autor ✒️
+
+# Autor ✒️
+
 Mishael Sequeira
